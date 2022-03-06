@@ -16,9 +16,11 @@
 - **센서 기반의 인터액티브 환경에서 노인 인지-운동 훈련 프로그램 개발**<br> 삼육대학교, 2021년 6월부터(진행 🔛)
 
 ### 🏆 ***Competitions***
+- `Dacon` **[농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)** **5등/250팀 (2%)**
 - `Dacon` **[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/overview/description)** **4등/250팀 (2%)**
 - `ai-challenge` **[2021 인공지능 그랜드 챌린지](https://www.ai-challenge.or.kr/#none)** - 과학기술정보통신부, 4차 Track 3 사물인지 **5등**
 - `aiconnect` **[2021 인공지능 온라인 경진대회](https://www.aiconnect.kr/main/competition/detail/194/competitionInfo)** - 과학기술정보통신부, [이미지] 운전 사고 예방을 위한 운전자 부주의 행동 검출 모델 **9등 (17%)**
 
 ### 💻 ***Code Sharing***
+- `Dacon` **[농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)** - Pytorch Lightning Baseline: **25 Likes 👍**
 - `Dacon` **[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/overview/description)** - train dataset COCO 변환: **21 Likes 👍**
