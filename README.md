@@ -12,7 +12,7 @@
 |Infra|![](https://img.shields.io/badge/Docker-2496ED.svg?style-flat-2496ED&logo=Docker&logoColor=white)|
 
 ### ⚙ ***Projects***
-- **센서 기반의 인터액티브 환경에서 노인 인지-운동 훈련 프로그램 개발** - 삼육대학교 (2021. 06. ~)
+- **센서 기반의 인터액티브 환경에서 노인 인지-운동 훈련 프로그램 개발** - 삼육대학교 (2021. 06.~)
 
 ### 📝 ***Publications***
 - `SCI` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Journal of Computitional Design and Engineering. (2023)
@@ -21,20 +21,20 @@
 - **딥러닝 기반 안전보호구 착용 상태 판단 방법 및 이를 컴퓨터에서 실행하기 위한 컴퓨터 프로그램이 기록된, 컴퓨터 판독 가능한 기록 매체** - 삼육대학교산학협력단 (10-2022-0119603 / 2022. 09. 21)
 
 ### 🏆 ***Competitions***
-- `ETRI` **[2022 DNA+드론 챌린지 지정공모 II](https://nanum.etri.re.kr/dnaplusdrone/app/index.html#/./challenge/introduce)** - 과학기술정보통신부, 한국연구재단, 한국전자통신연구원 (ETRI), 한국무인이동체연구조합 <u>**과학기술정보통신부 장관상**</u> (2022. 11.)
-- `ETRI` **[2022 DNA+드론 챌린지 지정공모 I](https://nanum.etri.re.kr/dnaplusdrone/app/index.html#/./challenge/introduce)** - 과학기술정보통신부, 한국연구재단, 한국전자통신연구원 (ETRI), 한국무인이동체연구조합 <u>**포럼상**</u> (2022. 11.)
-- `Dacon` **[SW중심대학 공동 AI 경진대회 <본선>](https://dacon.io/competitions/official/235970/data)** - SW중심대학 <u>**SW중심대학협의회장상 (장려상)**</u>
-- `Dacon` **[월간 데이콘 숫자 3D 이미지 분류 AI 경진대회](https://dacon.io/competitions/official/235951/overview/description)** **Private 2등/165팀 (1%)**
-- `교내대회` **2022 SW해커톤 대회** - 삼육대학교 <u>**대상**</u>
-- `교내대회` **2022 SW프로젝트 경진대회** - 삼육대학교 <u>**대상**</u>
-- `교내대회` **제 3회 삼육대학교 캡스톤디자인 경진대회** - 삼육대학교 <u>**장려상**</u>
+- `ETRI` **[2022 DNA+드론 챌린지](https://nanum.etri.re.kr/dnaplusdrone/app/index.html#/./challenge/introduce)**, 지정공모 II - 과학기술정보통신부, 한국연구재단, 한국전자통신연구원 (ETRI), 한국무인이동체연구조합 ***과학기술정보통신부 장관상*** (2022. 11.)
+- `ETRI` **[2022 DNA+드론 챌린지](https://nanum.etri.re.kr/dnaplusdrone/app/index.html#/./challenge/introduce)**, 지정공모 I - 과학기술정보통신부, 한국연구재단, 한국전자통신연구원 (ETRI), 한국무인이동체연구조합 ***포럼상*** (2022. 11.)
+- `Dacon` **[SW중심대학 공동 AI 경진대회 <본선>](https://dacon.io/competitions/official/235970/data)** - SW중심대학 ***SW중심대학협의회장상 (장려상)***
+- `Dacon` **[월간 데이콘 숫자 3D 이미지 분류 AI 경진대회](https://dacon.io/competitions/official/235951/overview/description)** ***Private 2등/165팀 (1%)***
+- `교내대회` **2022 SW해커톤 대회** - 삼육대학교 ***대상***
+- `교내대회` ***2022 SW프로젝트 경진대회*** - 삼육대학교 ***대상***
+- `교내대회` **제 3회 삼육대학교 캡스톤디자인 경진대회** - 삼육대학교 ***장려상***
 - `Dacon` **[농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)** - LG AI Research **Private 5등/250팀 (2%)**
 - `Dacon` **[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/overview/description)** - 한국지능정보사회진흥원 (NIA), 양산부산대학교병원 **Private 4등/250팀 (2%)**
-- `ai-challenge` **[2021 인공지능 그랜드 챌린지](https://www.ai-challenge.or.kr/#none)** - 과학기술정보통신부, 4차 Track 3 사물인지 **5등**
-- `aiconnect` **[2021 인공지능 온라인 경진대회](https://www.aiconnect.kr/main/competition/detail/194/competitionInfo)** - 과학기술정보통신부, [이미지] 운전 사고 예방을 위한 운전자 부주의 행동 검출 모델 **9등 (17%)**
+- `ai-challenge` **[2021 인공지능 그랜드 챌린지](https://www.ai-challenge.or.kr/#none)**, 4차 Track 3 사물인지 - 과학기술정보통신부 **5등**
+- `aiconnect` **[2021 인공지능 온라인 경진대회](https://www.aiconnect.kr/main/competition/detail/194/competitionInfo)**, [이미지] 운전 사고 예방을 위한 운전자 부주의 행동 검출 모델 - 과학기술정보통신부 **9등 (17%)**
 
 ### ✏️ ***Certificate Qualifications***
-- `국가자격증` **정보처리산업기사** - 과학기술정보통신부, 한국산업인력공단 (2022. 11. 25 ~)
+- `국가자격증` **정보처리산업기사** - 과학기술정보통신부, 한국산업인력공단 (2022. 11. 25~)
 
 ### 🏅 ***Scholarships***
-- **국가우수장학금 (이공계)** - 한국장학재단 (2022 ~ 2023)
+- **국가우수장학금 (이공계)** - 한국장학재단 (2022~2023)
