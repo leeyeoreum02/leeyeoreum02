@@ -15,7 +15,7 @@
 - **센서 기반의 인터액티브 환경에서 노인 인지-운동 훈련 프로그램 개발** - 삼육대학교 (2021. 06.~)
 
 ### 📝 ***Publications***
-- `SCI` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Journal of Computitional Design and Engineering. (2023)
+- `SCI` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Yeo-Reum Lee<sup>1</sup>, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>\*</sup>. Journal of Computitional Design and Engineering. (2023)
 
 ### 🗃️ ***Patents***
 - **딥러닝 기반 안전보호구 착용 상태 판단 방법 및 이를 컴퓨터에서 실행하기 위한 컴퓨터 프로그램이 기록된, 컴퓨터 판독 가능한 기록 매체** - 삼육대학교산학협력단 (10-2022-0119603 / 2022. 09. 21)
