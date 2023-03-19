@@ -26,7 +26,7 @@
 - `Dacon` **[SW중심대학 공동 AI 경진대회 <본선>](https://dacon.io/competitions/official/235970/data)** - SW중심대학 ***SW중심대학협의회장상 (장려상)***
 - `Dacon` **[월간 데이콘 숫자 3D 이미지 분류 AI 경진대회](https://dacon.io/competitions/official/235951/overview/description)** ***Private 2등/165팀 (1%)***
 - `교내대회` **2022 SW해커톤 대회** - 삼육대학교 ***대상***
-- `교내대회` ***2022 SW프로젝트 경진대회*** - 삼육대학교 ***대상***
+- `교내대회` **2022 SW프로젝트 경진대회** - 삼육대학교 ***대상***
 - `교내대회` **제 3회 삼육대학교 캡스톤디자인 경진대회** - 삼육대학교 ***장려상***
 - `Dacon` **[농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)** - LG AI Research **Private 5등/250팀 (2%)**
 - `Dacon` **[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/overview/description)** - 한국지능정보사회진흥원 (NIA), 양산부산대학교병원 **Private 4등/250팀 (2%)**
