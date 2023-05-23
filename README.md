@@ -1,6 +1,6 @@
 ## Summer Lee @leeyeoreum02
 
-**Interests:** `Computer Vision`, `Optimization`
+**Interests:** `XAI(Interpretable neural networks)`, `Deep learning`, `Self-supervised learning`, `Computer vision`, `Convex Optimization`
 <br><br>
 
 ### 🛠 ***Tech Stack***
@@ -12,7 +12,10 @@
 |Infra|![](https://img.shields.io/badge/Docker-2496ED.svg?style-flat-2496ED&logo=Docker&logoColor=white)|
 
 ### ⚙ ***Projects***
-- **센서 기반의 인터액티브 환경에서 노인 인지-운동 훈련 프로그램 개발** - 삼육대학교 (2021. 06.~)
+- **교육시설의 외벽 비구조체 안정성 판별을 위한 딥러닝 기반 UAV 영상 인식 시스템 개발** - 한국연구재단 (2022. 06.~)
+- **노인 인지 개선을 위한 웨어러블 센서 기반 인터액티브 훈련 시스템 개발** - 한국연구재단 (2021. 06.~)
+- **건설현장의 위험요소 감지를 위한 딥러닝 기반 실시간 영상분석 시스템 개발** - 한국연구재단 (2023. 01.~2023. 02.)
+- **딥러닝 기반 테라헤르츠 이미지 해상도 및 태그 인식률 향상 기술 개발** - 한국전자통신연구원(ETRI) (2022. 06.~2022. 11.)
 
 ### 📝 ***Publications***
 - `SCI` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Yeo-Reum Lee<sup>1</sup>, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>\*</sup>. Journal of Computitional Design and Engineering. (2023)
