@@ -1,6 +1,6 @@
 ## Summer Lee @leeyeoreum02
 
-**Interests:** `XAI(Interpretable neural networks)`, `Deep learning`, `Self-supervised learning`, `Computer vision`, `Convex Optimization`
+**Interests:** `Computer vision`, `Deep learning`, `Machine perception`, `XAI(Interpretable neural networks)`, `Self-supervised learning`
 <br><br>
 
 ### 🛠 ***Tech Stack***
