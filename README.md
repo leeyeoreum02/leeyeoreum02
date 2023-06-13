@@ -20,6 +20,9 @@
 ### 📝 ***Publications***
 - `SCI` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Yeo-Reum Lee<sup>1</sup>, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>\*</sup>. Journal of Computational Design and Engineering. (2023)
 
+### 📑 ***Conferences***
+- `CVPRW` **[NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)** - Vasluianu et al. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. (2023. 06.)
+
 ### 🗃️ ***Patents***
 - **딥러닝 기반 안전보호구 착용 상태 판단 방법 및 이를 컴퓨터에서 실행하기 위한 컴퓨터 프로그램이 기록된, 컴퓨터 판독 가능한 기록 매체** - 삼육대학교산학협력단 (10-2022-0119603 / 2022. 09. 21)
 
