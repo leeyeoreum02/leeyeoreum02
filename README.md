@@ -1,6 +1,6 @@
 ## Summer Lee @leeyeoreum02
 
-**Interests:** `XAI/Interpretable neural networks`, `Representation learning`, `Computer vision`, `Machine perception`, `Deep learning`
+**Interests:** `Computer vision`, `Deep learning`, `Machine perception`, `XAI/Interpretable neural networks`
 <br><br>
 
 ### 🛠 ***Tech Stack***
