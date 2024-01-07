@@ -21,10 +21,10 @@
 - **노인 인지 개선을 위한 웨어러블 센서 기반 인터액티브 훈련 시스템 개발** - 한국연구재단 (2021. 06.~ 2024. 02.)
 
 ### 🏆 ***Competitions***
-- `Dacon` **[SW중심대학 공동 AI 경진대회 <본선>](https://dacon.io/competitions/official/235970/data)** - SW중심대학 ***SW중심대학협의회장상 (장려상)***
-- `Dacon` **[월간 데이콘 숫자 3D 이미지 분류 AI 경진대회](https://dacon.io/competitions/official/235951/overview/description)** ***Private 2등/165팀 (1%)***
-- `Dacon` **[농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)** - LG AI Research **Private 5등/250팀 (2%)**
-- `Dacon` **[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/overview/description)** - 한국지능정보사회진흥원 (NIA), 양산부산대학교병원 **Private 4등/250팀 (2%)**
+- `Dacon` **[SW중심대학 공동 AI 경진대회 <본선>](https://dacon.io/competitions/official/235970/data)** - SW중심대학 ***SW중심대학협의회장상 (장려상)*** (2022.09.08 ~ 2022.10.07)
+- `Dacon` **[월간 데이콘 숫자 3D 이미지 분류 AI 경진대회](https://dacon.io/competitions/official/235951/overview/description)** ***Private 2등/165팀 (1%)*** (2022.08.01 ~ 2022.09.19)
+- `Dacon` **[농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)** - LG AI Research **Private 5등/250팀 (2%)** (2022.01.12 ~ 2022.02.04)
+- `Dacon` **[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/overview/description)** - 한국지능정보사회진흥원 (NIA), 양산부산대학교병원 **Private 4등/250팀 (2%)** (2021.11.15 ~ 2021.12.06)
 
 ### 🏅 ***Scholarships***
 - **국가우수장학금 (이공계)** - 한국장학재단 (2022~2023)
