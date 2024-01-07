@@ -12,7 +12,7 @@
 |Infra|![](https://img.shields.io/badge/Docker-2496ED.svg?style-flat-2496ED&logo=Docker&logoColor=white)|
 
 ### ⚙ ***Projects***
-- **노인 인지 개선을 위한 웨어러블 센서 기반 인터액티브 훈련 시스템 개발** - 한국연구재단 (2021. 06.~)
+- **노인 인지 개선을 위한 웨어러블 센서 기반 인터액티브 훈련 시스템 개발** - 한국연구재단 (2021. 06.~ 2024. 02.)
 
 ### 📝 ***Publications***
 - `SCI` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Yeo-Reum Lee<sup>1</sup>, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>\*</sup>. Journal of Computational Design and Engineering. (2023)
