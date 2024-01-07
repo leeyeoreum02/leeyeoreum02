@@ -18,7 +18,7 @@
 - `CVPRW` **[NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)** - Vasluianu et al. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. (2023)
 
 ### ⚙ ***Projects***
-- **노인 인지 개선을 위한 웨어러블 센서 기반 인터액티브 훈련 시스템 개발** - 한국연구재단 (2021. 06.~ 2024. 02.)
+- **노인 인지 개선을 위한 웨어러블 센서 기반 인터액티브 훈련 시스템 개발** - 한국연구재단 (2021. 06.~2024. 02.)
 
 ### 🏆 ***Competitions***
 - `Dacon` **[SW중심대학 공동 AI 경진대회 <본선>](https://dacon.io/competitions/official/235970/data)** - SW중심대학 ***SW중심대학협의회장상 (장려상)*** (2022.09.08 ~ 2022.10.07)
