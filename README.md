@@ -1,6 +1,6 @@
 ## Summer Lee @leeyeoreum02
 
-**Interests:** `Computer vision`, `Deep learning`
+**Interests:** `Computer vision`, `Deep learning`, `Machine Learning`
 <br><br>
 
 ### 🛠 ***Tech Stack***
