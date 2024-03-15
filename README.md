@@ -1,5 +1,9 @@
 ## Summer Lee @leeyeoreum02
 
+<a href="https://scholar.google.com/citations?user=IzJ7Dy0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" height="20" /></a>
+<a href="https://www.linkedin.com/in/yeoreumlee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
+
+
 **Interests:** `Computer vision`, `Deep learning`
 <br><br>
 
