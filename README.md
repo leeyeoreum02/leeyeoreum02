@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/yeoreumlee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
 
 
-**Interests:** `Computer vision`, `Deep learning`
+**Interests:** `Model merging`, `Parameter-Efficient Fine-Tuning (PEFT)`, `Computer vision`, `Foundation models`, `Large Language Models (LLMs)`, `Deep learning`, `Machine perception`
 <br><br>
 
 ### 🛠 ***Tech Stack***
