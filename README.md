@@ -16,10 +16,11 @@
 |Infra|![](https://img.shields.io/badge/Docker-2496ED.svg?style-flat-2496ED&logo=Docker&logoColor=white)|
 
 ### 📝 ***Publications/Conferences***
-- `SCI` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Yeo-Reum Lee, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>\*</sup>. Journal of Computational Design and Engineering. (2023)
 - `CVPRW` **[NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)** - Vasluianu et al. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. (2023)
+- `SCI` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Yeo-Reum Lee, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>\*</sup>. Journal of Computational Design and Engineering. (2023)
 
 ### ⚙ ***Projects***
+- **동일한 손실 분지로의 심층 신경망 재배치 및 가중치 평균을 활용한 멀티모달 분할 성능 개선 방법 개발** - 한국연구재단 (2024. 07. ~ 2025. 06.)
 - **노인 인지 개선을 위한 웨어러블 센서 기반 인터액티브 훈련 시스템 개발** - 한국연구재단 (2021. 06. ~ 2024. 02.)
 
 ### 🏆 ***Competitions***
