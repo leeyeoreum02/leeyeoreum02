@@ -15,7 +15,7 @@
 |Tools|![](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style-flat-EE4C2C&logo=PyTorch&logoColor=white) ![](https://img.shields.io/badge/Lightning-792EE5.svg?style-flat-792EE5&logo=Lightning&logoColor=white) ![](https://img.shields.io/badge/Qt%20for%20Python-41CD52.svg?style-flat-41CD52&logo=Qt&logoColor=white) ![](https://img.shields.io/badge/Read%20the%20Docs-8CA1AF.svg?style-flat-8CA1AF&logo=ReadtheDocs&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688.svg?style-flat-009688&logo=FastAPI&logoColor=white)|
 |Infra|![](https://img.shields.io/badge/Docker-2496ED.svg?style-flat-2496ED&logo=Docker&logoColor=white)|
 
-### 📝 ***Research Papers***
+### 📝 ***Publications***
 - `Top-tier` **[Mitigating Parameter Interference in Model Merging via Sharpness-Aware Fine-Tuning](https://openreview.net/forum?id=eaTqsptDPL)** - Yeoreum Lee, Jinwook Jung, Sungyong Baik<sup>\*</sup>. ICLR. (2025)
 - `Top-tier` **[NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)** - Vasluianu et al. CVPR Workshops. (2023)
 - `SCI Q1` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Yeo-Reum Lee, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>\*</sup>. Journal of Computational Design and Engineering. (2023)
