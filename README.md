@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/yeoreumlee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABS0lEQVR4nO2ZO0oEQRRFnyhmOoKmgoHuwD0oOI2GomBm6BZMZMCFuAYzx1EXYqb4YUB7IpMjJR01U3a1HXhreAcqu13F4dXr6o+Z4zh/AtgHRsCE/2cC3AJFW4lLdBm0qYQ6/RSRsJ3UGaaIlOjzmSKSBeYiM1aRZ+AQWK3GMfBKhiI7Krdr6yiyPCXfI0ORYkq+T4Yib8AJsFaN0CMvZCgig7nILFXEEq5JyDxUZ9E6sAgsAdvAOfCeg0g4OHcb1l4BrtVFNhsXt5/cAnAvK9IGYAP4khcB5hMyV7IiwBnwVEUfgdNfskeSIsBBm/dvYEtV5C4y7SiS76mKjCPTjiP5OVWRTvPWcZGAV8R8a0XxHgl4j5j3SBTvETWsyyNKbiIl+nykiIS/p+rcpIgU6LPXKFLJDNDlIkmi9pV9KNIzZdhOyZVwHMfqfANKiIQn/4RZwwAAAABJRU5ErkJggg==&logoColor=white" height="20" /></a>
 
 
-**Interests:** `Model merging`, `Computer vision`, `Deep learning`, `Machine perception`, `Foundation models`, `Large Language Models (LLMs)`, `Parameter-Efficient Fine-Tuning (PEFT)`
+**Interests:** `Model merging`, `Computer vision`, `Deep learning`, `Large Language Models (LLMs)`
 <br><br>
 
 ### 🛠 ***Tech Stack***
@@ -21,6 +21,10 @@
 - `Top-tier` **[NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)** - Vasluianu et al. CVPR Workshops. (2023)
 - `SCI (Q1)` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Yeo-Reum Lee, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>\*</sup>. Journal of Computational Design and Engineering. (2023)
 
+### 📁 ***Patents***
+- `등록` 딥러닝 기반 안전보호구 착용 상태 판단 방법 및 이를 컴퓨터에서 실행하기 위한 컴퓨터 프로그램이 기록된, 컴퓨터 판독 가능한 기록 매체. (No. 10-2874570)
+- `출원` 다중 태스크 인공지능 모델 생성 장치 및 그 방법. (No. 10-2025-0060397)
+
 ### ⚙ ***Projects***
 - **동일한 손실 분지로의 심층 신경망 재배치 및 가중치 평균을 활용한 멀티모달 분할 성능 개선 방법 개발** - 연구책임자, 2024년도 이공분야 학술연구지원사업(석사과정생연구장려금지원사업), *한국연구재단* (2024. 07. ~ 2025. 06.)
 - **노인 인지 개선을 위한 웨어러블 센서 기반 인터액티브 훈련 시스템 개발** - 학생연구원, *한국연구재단* (2021. 06. ~ 2024. 02.)
@@ -33,3 +37,4 @@
 
 ### 🏅 ***Scholarships***
 - **국가우수장학금 (이공계)** - 한국장학재단 (2022~2023)
+- **석사우수장학금 (이공계)** - 한국장학재단 (2025)
