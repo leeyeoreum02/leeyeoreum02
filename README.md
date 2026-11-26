@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/yeoreumlee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABS0lEQVR4nO2ZO0oEQRRFnyhmOoKmgoHuwD0oOI2GomBm6BZMZMCFuAYzx1EXYqb4YUB7IpMjJR01U3a1HXhreAcqu13F4dXr6o+Z4zh/AtgHRsCE/2cC3AJFW4lLdBm0qYQ6/RSRsJ3UGaaIlOjzmSKSBeYiM1aRZ+AQWK3GMfBKhiI7Krdr6yiyPCXfI0ORYkq+T4Yib8AJsFaN0CMvZCgig7nILFXEEq5JyDxUZ9E6sAgsAdvAOfCeg0g4OHcb1l4BrtVFNhsXt5/cAnAvK9IGYAP4khcB5hMyV7IiwBnwVEUfgdNfskeSIsBBm/dvYEtV5C4y7SiS76mKjCPTjiP5OVWRTvPWcZGAV8R8a0XxHgl4j5j3SBTvETWsyyNKbiIl+nykiIS/p+rcpIgU6LPXKFLJDNDlIkmi9pV9KNIzZdhOyZVwHMfqfANKiIQn/4RZwwAAAABJRU5ErkJggg==&logoColor=white" height="20" /></a>
 
 
-**Interests:** `Model merging`, `Computer vision`, `Deep learning`, `Large Language Models (LLMs)`
+**Interests:** `Large Language Models (LLMs)`, `Model merging`, `Deep learning`
 <br><br>
 
 ### 🛠 ***Tech Stack***
@@ -17,6 +17,7 @@
 |Infra|![](https://img.shields.io/badge/Docker-2496ED.svg?style-flat-2496ED&logo=Docker&logoColor=white)|
 
 ### 📝 ***Publications***
+- `Top-tier` **[Localizing Cross-Lingual Generalization in Parameter Space](https://aclanthology.org/2026.emnlp-main.2625/)** - Yeoreum Lee, Jaeseong Lee, Seung-won Hwang<sup>\*</sup>. EMNLP. (2026)
 - `Top-tier` **[Mitigating Parameter Interference in Model Merging via Sharpness-Aware Fine-Tuning](https://openreview.net/forum?id=eaTqsptDPL)** - Yeoreum Lee, Jinwook Jung, Sungyong Baik<sup>\*</sup>. ICLR. (2025)
 - `Top-tier` **[NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)** - Vasluianu et al. CVPR Workshops. (2023)
 - `SCI (Q1)` **[Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites](https://doi.org/10.1093/jcde/qwad019)** - Yeo-Reum Lee, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>\*</sup>. Journal of Computational Design and Engineering. (2023)
